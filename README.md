@@ -1,7 +1,9 @@
 # Hong Kong Corruption & Security Analysis
 
 ## Project Description
-This project analyses the relationship between perceived corruption and security-related behaviour using World Values Survey data from Hong Kong (~2000 observations).
+This project analyses the relationship between perceived corruption and security-related behaviour using World Values Survey data from Hong Kong (~2000 observations). 
+- Dataset source:  
+https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp
 
 The analysis focuses on identifying factors influencing subjective feelings of security and evaluating the role of corruption perception in shaping behavioural decisions.
 
